@@ -1,5 +1,4 @@
-<h1 align="center">Xin chào 👋, tôi là @phambaquang3012</h1>
-<h3 align="center">lớp 12b2</h3>
+<h1 align="center">Xin chào 👋, tôi là Phạm Bá Quang</h1>
 
 
 <picture>
