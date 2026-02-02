@@ -16,7 +16,7 @@
 <a href="https://wangtech.top" target="blank"><img align="center" src="https://wangtech.top/static/img/avata.jpg" alt="quang301226" height="30" width="30"/></a></p>
 <h3 align="left">Dự án của tôi:</h3>
 <p align="left">
-<a href="https://locket.wangtech.top" target="blank"><img align="center" src="https://locket.wangtech.top/icons8-heart-100.png" alt="phamquang2k6" height="30" width="30" /></a></p>
+<a href="https://locket-wan.top" target="blank"><img align="center" src="https://locket-wan.top/icons8-heart-100.png" alt="phamquang2k6" height="30" width="30" /></a></p>
 <h3 align="left">Ngôn ngữ và công cụ:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -27,3 +27,4 @@
  </p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=bquang2k6&show_icons=true&locale=vi" alt="bquang2k6" /></p>
+
